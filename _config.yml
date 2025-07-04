@@ -26,8 +26,8 @@ author:
   name             : "Raquel Forés Toribio"
   pronouns         : "she/her"  
   bio              : "" # "Short biography for the left-hand sidebar"
-  employer         : "Department of Astronomy, The Ohio State University"
-  location         : "MP 4061, 140 West 18th Avenue, Columbus, OH, 43210, USA."
+  employer         : "Department of Astronomy,\\ The Ohio State University"
+  location         : "MP 4061,\\ 140 West 18th Avenue,\\ Columbus, OH, 43210, USA."
   uri              : # URL
   email            : "forestoribio.1@osu.edu" 
 
