@@ -8,9 +8,9 @@
 */
 
 :root {
-  --accentcolor: #8E7CC7;
-  --accentcolor2: #7566A4;
-  --accentcolor3: #A8A4ED;
+  --accentcolor: #8E7CC7; /*Base*/
+  --accentcolor2: #8573BF; /*Darker*/
+  --accentcolor3: #D3CFF0; /*Lighter*/
 }
 
 
