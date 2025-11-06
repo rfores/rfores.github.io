@@ -2413,13 +2413,13 @@ input, select, textarea {
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
-				height: 1.5em;
+				height: 2.0em;
 				left: 0;
-				line-height: 1.5em;
+				line-height: 2.0em;
 				position: absolute;
 				text-align: center;
 				top: 0;
-				width: 1.5em;
+				width: 2.0em;
 			}
 
 /* Icons */
